@@ -1,0 +1,3 @@
+[submodule "math-tools"]
+	path = math-tools
+	url = https://github.com/zero80517/math-tools
